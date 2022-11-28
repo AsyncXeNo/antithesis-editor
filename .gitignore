@@ -1,0 +1,6 @@
+test.py
+venv
+temp
+.vscode
+logs
+**/__pycache__/
